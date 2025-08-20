@@ -12,7 +12,6 @@
     </caption>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="" width="32px">
             <a href="#powerbi">Power BI</a>
         </td>
         <td align="left" valign="middle">
@@ -21,7 +20,6 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="" width="32px">
             <a href="#ssrs-reports">Report Server</a>
         </td>
         <td align="left" valign="middle">
@@ -30,7 +28,6 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="" width="32px">
             <a href="#telerik-reporting">Telerik Reporting</a>
         </td>
         <td align="left" valign="middle">
@@ -47,7 +44,6 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="" width="32px">
             Power BI
         </h2>
     </caption>
@@ -57,7 +53,7 @@
                 <a href="https://github.com/Idja88/vitro-analytics/tree/ba4515c7c950980dc0657c847435daa20d29893a/PBI/LicenseMonitor">LicenseMonitor</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="LicenseMonitor" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/PBI/LicenseMonitor/images/License.PNG" align="top" width="256px" title="LicenseMonitor" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Дашборд предназначен для мониторинга активности пользователей и наблюдения за лицензионным сервисом</span>
@@ -75,7 +71,6 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="" width="32px">
             Report Server
         </h2>
     </caption>
@@ -317,7 +312,6 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="" width="32px">
             Telerik Reporting
         </h2>
     </caption>
