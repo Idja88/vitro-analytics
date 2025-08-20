@@ -47,7 +47,7 @@
             PBI
         </h2>
     </caption>
-        <tr valign="top">
+    <tr valign="top">
         <td width="33%">
             <kbd>
                 <a href="https://github.com/Idja88/vitro-analytics/tree/ba4515c7c950980dc0657c847435daa20d29893a/PBI/LicenseMonitor">LicenseMonitor</a>
@@ -332,37 +332,37 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/6a1eb4bf9b7d78df2dc5c1a1f7b00c296c099bc9/TR/TaskHoursByContract">TaskHoursByContract</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/TR/TaskHoursByContract/images/TaskHoursByContract_Blurred.PNG" align="top" width="256px" title="TaskHoursByContract" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href=""></a>
-                <br>
-                <br>
-                <img src="" align="top" width="256px" title="" />
-                <br>
-                <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о трудозатратах по проекту за период из системы Vitro Planner с подсчетом разницы между фактическими и плановыми трудозатратами</span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/6a1eb4bf9b7d78df2dc5c1a1f7b00c296c099bc9/TR/TaskHoursByDep">TaskHoursByDep</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/TR/TaskHoursByDep/images/TaskHousByDep_Blurred.PNG" align="top" width="256px" title="TaskHoursByDep" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о трудозатратах по отделу(ам) за период из системы Vitro Planner c подсчетом разницы между фактическим и плановыми трудозтатами</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/6a1eb4bf9b7d78df2dc5c1a1f7b00c296c099bc9/TR/TaskHoursByUser">TaskHoursByUser</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/TR/TaskHoursByUser/images/TaskHoursByUser_Blurred.PNG" align="top" width="256px" title="TaskHoursByUser" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о трудозатратах по сотруднику(ам) за период из системы Vitro Planner с подсчетом разницы между фактическими и плановыми трудозатратами</span>
                 <br>
             </kbd>
         </td>
@@ -370,37 +370,13 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/6a1eb4bf9b7d78df2dc5c1a1f7b00c296c099bc9/TR/TaskReport">TaskReport</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/TR/TaskReport/images/TaskReport_Blurred.PNG" align="top" width="256px" title="TaskReport" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href=""></a>
-                <br>
-                <br>
-                <img src="" align="top" width="256px" title="" />
-                <br>
-                <br>
-                <span style="max-width:256px;"></span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href=""></a>
-                <br>
-                <br>
-                <img src="" align="top" width="256px" title="" />
-                <br>
-                <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о задачах модуля Рабочие Процессы системы Vitro-CAD, срок которых уже просрочен или подходит к завершению, отчет необходим для обеспечения контроля над выполнением задач</span>
                 <br>
             </kbd>
         </td>
