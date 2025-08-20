@@ -12,26 +12,26 @@
     </caption>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <a href="#powerbi">Power BI</a>
+            <a href="#powerbi">PBI</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft Power BI - это динамические панели мониторинга, отчеты об эффективности и аналитика для выявления тенденций и разработки бизнес-стратегии</a>
+            это дашборды и графические отчеты разработанные на платформе Microsoft Power BI</a>
         </td>
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <a href="#ssrs-reports">Report Server</a>
+            <a href="#ssrs-reports">SSRS</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft SQL Server Reporting Services (SSRS) - это графические и постраничные отчеты.</a>
+            это графические отчеты разработанные на платформе Microsoft SQL Server Reporting Services</a>
         </td>
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <a href="#telerik-reporting">Telerik Reporting</a>
+            <a href="#telerik-reporting">TR</a>
         </td>
         <td align="left" valign="middle">
-            Telerik Reporting - это решение по созданию и оформлению отчетов для .NET облачных, веб и настольных платформ</a>
+            это графические отчеты разработанные на плафтформе Telerik Reporting</a>
         </td>
     </tr>
 </table>
@@ -44,11 +44,11 @@
 <table style="width:100%">
     <caption>
         <h2>
-            Power BI
+            PBI
         </h2>
     </caption>
         <tr valign="top">
-        <td width="100%">
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/Idja88/vitro-analytics/tree/ba4515c7c950980dc0657c847435daa20d29893a/PBI/LicenseMonitor">LicenseMonitor</a>
                 <br>
@@ -71,7 +71,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            Report Server
+            SSRS
         </h2>
     </caption>
     <tr valign="top">
@@ -83,7 +83,7 @@
                 <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/ba4515c7c950980dc0657c847435daa20d29893a/SSRS/ContractReport/images/ContractReport_Blurred.PNG" align="top" width="256px" title="ContractReport" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Отчет предназначен для получения финансовых данных по проекту, с разделением по участвующим в нём        юридическим сторонам, для построения отчета используются данные полученные из системы 1С</span>
+                <span style="max-width:256px;">Отчет предназначен для получения финансовых данных по проекту, с разделением по участвующим в нём        юридическим сторонам, для построения отчета используются данные полученные из системы 1С:Бухгалтерия</span>
                 <br>
             </kbd>
         </td>
@@ -153,75 +153,37 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/IndividualWorkGraph">IndividualWorkGraph</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/IndividualWorkGraph/images/IndividualWorkGraph_Blurred.PNG" align="top" width="256px" title="IndividualWorkGraph" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href=""></a>
-                <br>
-                <br>
-                <img src="" align="top" width="256px" title="" />
-                <br>
-                <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о фактических трудозатратах по проектным и вне проектным задачам одного сотрудника из системы Vitro Planner с периодом в месяц в календарном виде, дополнительно для построения отчета используются данные из системы 1С:ЗиУП</span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/OrgFactHoursByContracts">OrgFactHoursByContracts</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/OrgFactHoursByContracts/images/OrgFactHoursByContracts_Blurred.PNG" align="top" width="256px" title="OrgFactHoursByContracts" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-        <tr valign="top">
-        <td width="33%">
-            <kbd>
-                <a href=""></a>
-                <br>
-                <br>
-                <img src="" align="top" width="256px" title="" />
-                <br>
-                <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о фактических трудозатратах по проекту из системы Vitro Planner, с группировкой по отделам и детализацией по задачам каждого сотрудника</span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/PlanAndFact">PlanAndFact</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/PlanAndFact/images/PlanAndFact_Blurred.PNG" align="top" width="256px" title="PlanAndFact" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href=""></a>
-                <br>
-                <br>
-                <img src="" align="top" width="256px" title="" />
-                <br>
-                <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о фактических и плановых трудозатратах по проекту из системы Vitro Planner, отчет строится на годовой период и нужен для проведения план-фактного анализа, дополнительно для построения отчета используются данные из системы 1С:ЗиУП</span>
                 <br>
             </kbd>
         </td>
@@ -229,37 +191,37 @@
         <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/PlanTaskHours">PlanTaskHours</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/PlanTaskHours/images/PlanTaskHours_Blurred.PNG" align="top" width="256px" title="PlanTaskHours" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href=""></a>
-                <br>
-                <br>
-                <img src="" align="top" width="256px" title="" />
-                <br>
-                <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о плановых трудозатратах по проекту за период из системы Vitro Planner c сохранением иерархии задач</span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/ProjectHoursByStatus">ProjectHoursByStatus</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/ProjectHoursByStatus/images/ProjectHoursByStatus_Blurred.PNG" align="top" width="256px" title="ProjectHoursByStatus" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения сводной информации о фактических трудозатратах по проекту за период из системы Vitro Planner, с группировкой по отделам, и детализацией по каждому сотруднику отдела, а также с подсчетом итогов по филиалам и по проектным и вне проектным работам</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/ProjectWorkHoursReportCalendar">ProjectWorkHoursReportCalendar</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/ProjectWorkHoursReportCalendar/images/ProjectWorkHoursReportCalendar_1.PNG" align="top" width="256px" title="ProjectWorkHoursReportCalendar" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Отчет предназначен для получения сводной информации о фактических трудозатратах по всем проектам за период прошлого месяца из системы Vitro Planner с разбивкой по каждому сотруднику, отчет показывает в процентном соотношении затраты каждого сотрудника в рамках проектов и процент который занимает каждый проект в общем пуле трудозатрат, дополнительно используются данные по зарботной плате каждого сотрудника</span>
                 <br>
             </kbd>
         </td>
@@ -267,37 +229,89 @@
         <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/TaskHoursBeDep">TaskHoursBeDep</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/TaskHoursBeDep/images/TaskHoursByDep_Blurred.PNG" align="top" width="256px" title="TaskHoursBeDep" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href=""></a>
-                <br>
-                <br>
-                <img src="" align="top" width="256px" title="" />
-                <br>
-                <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о трудозатратах по отделу(ам) за период из системы Vitro Planner c подсчетом разницы между фактическим и плановыми трудозтатами</span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                <a href=""></a>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/TaskHoursByContract">TaskHoursByContract</a>
                 <br>
                 <br>
-                <img src="" align="top" width="256px" title="" />
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/TaskHoursByContract/images/TaskHoursByContract_Blurred.PNG" align="top" width="256px" title="TaskHoursByContract" />
                 <br>
                 <br>
-                <span style="max-width:256px;"></span>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о трудозатратах по проекту за период из системы Vitro Planner с подсчетом разницы между фактическими и плановыми трудозатратами, а также фактическими и максимальными трудозатратами, с сохранением иерархии задач</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/TaskHoursByEmp">TaskHoursByEmp</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/TaskHoursByEmp/images/TaskHoursByEmp_Blurred.PNG" align="top" width="256px" title="TaskHoursByEmp" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о трудозатратах по сотруднику(ам) за период из системы Vitro Planner с подсчетом разницы между фактическими и плановыми трудозатратами</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+        <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/Workload">Workload</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/Workload/images/Workload_Blurred.PNG" align="top" width="256px" title="Workload" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о плановой загрузке по проекту за период из системы Vitro Planner, плановая загрузка распределяется равномерно и группируется по неделям и месяцам, детализация доступна как по отделу так и по каждому сотруднику отдела, в отчете подсчитывается отклонение по загрузке, как разница между ресурсом и плановой загрузкой, а также обеспеченность ресурсами как процентное отношение этой разницы, дополнительно для построения отчета используются данные из системы 1С:ЗиУП</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/Workload">WorkloadSubDep</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/Workload/images/WorkloadSubDep_Blurred.PNG" align="top" width="256px" title="WorkloadSubDep" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Гистограмма отчета Workload используется как подотчет по отделу</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/Workload">WorkloadSubUser</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/Workload/images/WorkloadSubUser_Blurred.PNG" align="top" width="256px" title="WorkloadSubUser" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Гистограмма отчета Workload используется как подотчет по сотруднику</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/ea826706661755303d55e34f38578da9537fdead/SSRS/TaskReport">TaskReport</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/TaskReport/images/TaskReport_Blurred.PNG" align="top" width="256px" title="TaskReport" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Отчет предназначен для получения информации о задачах модуля Рабочие Процессы системы Vitro-CAD, срок которых уже просрочен или подходит к завершению, отчет необходим для обеспечения контроля над выполнением задач</span>
                 <br>
             </kbd>
         </td>
@@ -312,7 +326,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            Telerik Reporting
+            TR
         </h2>
     </caption>
     <tr valign="top">
