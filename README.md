@@ -11,7 +11,7 @@
         </h2>
     </caption>
     <tr valign="top">
-        <td width="25%" align="left" valign="middle">
+        <td width="25%" align="center" valign="middle">
             <a href="#powerbi">PBI</a>
         </td>
         <td align="left" valign="middle">
@@ -19,7 +19,7 @@
         </td>
     </tr>
     <tr valign="top">
-        <td width="25%" align="left" valign="middle">
+        <td width="25%" align="center" valign="middle">
             <a href="#ssrs-reports">SSRS</a>
         </td>
         <td align="left" valign="middle">
@@ -27,7 +27,7 @@
         </td>
     </tr>
     <tr valign="top">
-        <td width="25%" align="left" valign="middle">
+        <td width="25%" align="center" valign="middle">
             <a href="#telerik-reporting">TR</a>
         </td>
         <td align="left" valign="middle">
@@ -58,6 +58,16 @@
                 <br>
                 <span style="max-width:256px;">Дашборд предназначен для мониторинга активности пользователей и наблюдения за лицензионным сервисом</span>
                 <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                &nbsp;
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                &nbsp;
             </kbd>
         </td>
     </tr>
