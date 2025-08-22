@@ -390,5 +390,29 @@
                 <br>
             </kbd>
         </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Idja88/vitro-analytics/tree/875fbaf3b75d09770f5363c8aecc04a2c5b783df/SSRS/CheckOutByUsers">CheckOutByUsers</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Idja88/vitro-analytics/refs/heads/main/SSRS/CheckOutByUsers/images/CheckOutByUsers_Blurred.PNG" align="top" width="256px" title="CheckOutByUsers" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Отчет администратора предназначен для получения информации об извлеченных файлах с группировкой по проектам, а также доступен переход из отчета к расположению файла в клиентское приложение Vitro-CAD</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href=""></a>
+                <br>
+                <br>
+                <img src="" align="top" width="256px" title="" />
+                <br>
+                <br>
+                <span style="max-width:256px;"></span>
+                <br>
+            </kbd>
+        </td>
     </tr>
 </table>
